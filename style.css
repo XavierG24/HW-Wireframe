@@ -9,58 +9,56 @@ body {
 }
 header {
     background: #ebebeb;
-    /* width: 495px; */
     text-align: center;
     padding-top: 20px;
     padding-bottom: 20px;
 }
 nav {
     background: #ebebeb;
-    /* width: 495px; */
     text-align: center;
     padding-top: 20px;
     padding-bottom: 20px;
     margin-top: 10px;
-    margin-bottom: 10px;
+    margin-bottom: 20px;
 }
 section {
     background: #ebebeb;
-    /* width: 495px; */
     text-align: center;
-    position: relative;
-    padding: 10px;
     display: inline-block;
     width: 495px;
-    margin-bottom: 10px;
-  
+    padding: 10px;
+    margin-bottom: 25px;
 }
 .article {
-    color: #ebebeb;
     background: #777;
+    color: #ebebeb;
+    padding-bottom: 10px;
+    padding-top: 5px;
 }
 aside {
     background: #ebebeb;
-    /* width: 495px; */
     text-align: center;
-    position: realtive;
     float: right;
-    margin-bottom: 10px;
-    width: 200px;
+    width: 420px;
+    height: 273px;
+    padding-top: 10px;
+    margin-bottom: 25px;
 }
 footer {
     background: #ebebeb;
-    /* width: 495px; */
     text-align: center;
-    padding: 20px;
-    
-}
-h1 p {
-    color: #777;
-    background-color: #ebebeb;
+    padding: 20px; 
 }
 .example-heading {
-
+    background-color: #ebebeb;
+    color: #777;
+    width: 450px;
+    display: inline-block;
 }
 .example-p {
-
+    width: 450px;
+    color: #777;
+    background: #ebebeb;
+    display: inline-block;
+    margin: 10px;
 }
